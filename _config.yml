@@ -13,7 +13,7 @@ description: >
 gems: [jekyll-paginate]
 paginate: 10
 paginate_path: "/page/:num"
-url: "https://bodyno.github.io"
+url: "/"
 enforce_ssl: bodyno.github.io
 future: true
 twitter_username: az8321550
