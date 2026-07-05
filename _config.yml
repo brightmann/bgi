@@ -14,7 +14,6 @@ gems: [jekyll-paginate]
 paginate: 10
 paginate_path: "/page/:num"
 url: "/"
-enforce_ssl: bodyno.github.io
 future: true
 twitter_username: az8321550
 github_username:  bodyno
